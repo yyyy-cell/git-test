@@ -10,5 +10,6 @@ public class test {
         System.out.println("master commit");
         System.out.println("push commit");
         System.out.println("pull commit");
+        System.out.println("gitee commit");
     }
 }
