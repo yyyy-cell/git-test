@@ -12,5 +12,7 @@ public class test {
         System.out.println("pull commit");
         System.out.println("gitee commit");
         System.out.println("test commit");
+        System.out.println("test commit");
+        System.out.println("test commit");
     }
 }
